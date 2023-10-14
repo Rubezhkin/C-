@@ -1,0 +1,14 @@
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+D:\код\Лабы\C#\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
